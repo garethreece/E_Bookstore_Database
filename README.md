@@ -27,4 +27,5 @@ Most operating systems or python packages have SQLite and tabulate installed as 
 ### Executing the Program
 
 Open the file **bookstore_app.py** into an IDE and run the program. The program menu will come up in the terminal window. The image below shows the code being run and the opening terminal.
-![Screenshot of program being run in visual studio](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![Screenshot of program being run in visual studio](https://github.com/garethreece/finalCapstone/blob/main/Images/running%20program.jpg)
